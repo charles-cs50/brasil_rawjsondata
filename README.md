@@ -12,7 +12,6 @@ json para testes, com atualização mensal, sem login, sem necessidade de cadast
 campos: estado_nome, estado_capital, sigla_estado, fronteira_com, estado_ddd.
 ordem : alfabetica.
 data  : 30/05/25
-link  : https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_2025.json
 ```
 ```jsonc
       // preview
@@ -22,4 +21,8 @@ link  : https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/h
       "estado_populacao": 840939,
       "fronteira_com": ["Amazonas", "Rondônia", "Peru", "Bolívia"],
       "estado_ddd": ["68"]
+```
+#### link raw txt
+```
+https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_2025.json
 ```
