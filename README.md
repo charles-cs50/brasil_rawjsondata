@@ -30,12 +30,10 @@ https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/mai
 ```python
 # python client
 import requests
-
 url='https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_2025.json'
-
 req=requests.get(url)
 dic=req.json()
-
+# preview data
 print(req, end='\n\n')
 print(dic)
 ```
