@@ -12,9 +12,10 @@ json para testes, com atualização mensal, sem login, sem necessidade de cadast
 campos: estado_nome, estado_capital, sigla_estado, fronteira_com, estado_ddd.
 ordem : alfabetica.
 data  : 30/05/25
+link  : https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_2025.json
 ```
 ```jsonc
-      // exemplo
+      // preview
       "estado_nome": "Acre",
       "estado_capital": "Rio Branco",
       "sigla_estado": "AC",
