@@ -6,11 +6,15 @@ json para testes, com atualização mensal, sem login, sem necessidade de cadast
 📂[rjd_frutas_brasil](https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_frutas_brasil.json)
 
 ## Brasil Geo
-### frutas brasil ( link raw rjd_frutas_brasil.json )
+### brasil geo ( link raw rjd_brasil_2025.json )
 📂[rjd_frutas_brasil](https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_frutas_brasil.json)
-
-
-```json
+```
+campos: estado_nome, estado_capital, sigla_estado, fronteira_com, estado_ddd.
+ordem : alfabetica.
+data  : 30/05/25
+```
+```jsonc
+      // exemplo
       "estado_nome": "Acre",
       "estado_capital": "Rio Branco",
       "sigla_estado": "AC",
