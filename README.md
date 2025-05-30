@@ -14,13 +14,13 @@ ordem : alfabetica.
 data  : 30/05/25
 ```
 ```jsonc
-      // preview
-      "estado_nome": "Acre",
-      "estado_capital": "Rio Branco",
-      "sigla_estado": "AC",
-      "estado_populacao": 840939,
-      "fronteira_com": ["Amazonas", "Rondônia", "Peru", "Bolívia"],
-      "estado_ddd": ["68"]
+// preview do primeiro campo
+"estado_nome": "Acre",
+"estado_capital": "Rio Branco",
+"sigla_estado": "AC",
+"estado_populacao": 840939,
+"fronteira_com": ["Amazonas", "Rondônia", "Peru", "Bolívia"],
+"estado_ddd": ["68"]
 ```
 #### link raw txt
 ```
