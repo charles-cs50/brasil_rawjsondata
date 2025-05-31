@@ -11,7 +11,7 @@ data  : 30/10/2025
 ```
 ```jsonc
 // preview do primeiro campo
-"nome": "Abil",
+"nome": "Abiu",
 "origem": "Brasil",
 "estado_produtor": "MG, SP, PR, SC",
 "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Lucuma_salicifolia_fruto.jpg/800px-Lucuma_salicifolia_fruto.jpg",
