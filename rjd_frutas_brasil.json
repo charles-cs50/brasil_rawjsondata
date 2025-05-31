@@ -116,7 +116,7 @@
       "nome": "Goiaba",
       "origem": "América Tropical (possivelmente Brasil)",
       "estado_produtor": "SP, PE, MG",
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Goiabas.jpg/800px-Goiabas.jpg",
+      "imagem": "",
       "usada_em": "in natura, sucos, doces, geleias (goiabada)",
       "nome_cientifico":" Psidium guajava L."
     },
@@ -124,7 +124,7 @@
       "nome": "Cacau",
       "origem": "Bacia Amazônica",
       "estado_produtor": "BA, PA, ES",
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cacao_fruit_cut_open.jpg/800px-Cacao_fruit_cut_open.jpg",
+      "imagem": "",
       "usada_em": "chocolate, sucos, doces",
       "nome_cientifico":"Theobroma cacao L."
     }
