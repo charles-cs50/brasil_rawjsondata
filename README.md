@@ -2,7 +2,7 @@
 json para testes, com atualização mensal, sem login, sem necessidade de cadastro, direto do arquivo, foco Brasil.
 
 ## Brasil Botânica
-### frutas brasil ( link raw rjd_frutas_brasil.json [* CTRL+s Salvar pelo navegador] )
+### brasil_frutas ( link raw rjd_frutas_brasil.json [ * CTRL+s Salvar pelo navegador ] )
 🔗 [rjd_frutas_brasil](https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_frutas_brasil.json)
 ```
 campos  : nome, origem, estado_produtor, imagem, usada_em ( em qual receita se usa: suco, bolos, enfim ), nome_cientifico
@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/mai
 ```
 
 ## Brasil Geo
-### brasil geo ( link raw rjd_brasil_2025.json [* CTRL+s Salvar pelo navegador] )
+### brasil_geo ( link raw rjd_brasil_2025.json [* CTRL+s Salvar pelo navegador] )
 🔗 [rjd_brasil_2025](https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_2025.json)
 ```
 campos: estado_nome, estado_capital, sigla_estado, fronteira_com, estado_ddd.
