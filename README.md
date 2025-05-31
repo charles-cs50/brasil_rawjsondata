@@ -87,11 +87,11 @@ $url = 'https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/h
 $response = @file_get_contents($url);
 
 if ($response !== false) {
-    $data = json_decode($response, true); // Decodifica a string JSON para um array associativo
+    $data = json_decode($response, true);
 
     if ($data !== null) {
-        echo "<pre>"; // Tag <pre> para preservar a formatação
-        echo json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE); // Codifica o array de volta para JSON formatado
+        echo "<pre>"; 
+        echo json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE); # encoding:utf-8 ~> JSON_UNESCAPED_UNICODE
         echo "</pre>";
     } else {
         echo "Erro ao decodificar a resposta JSON.";
