@@ -46,8 +46,11 @@ data  : 30/05/25
 ```
 https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_2025.json
 ```
-### python client ( * lib requests )
+# Clients
+### Python client ( * lib requests )
 ```python
+# proto: client.py ~> local file. [run]> python client.py or python3 client.py
+
 # python client
 import requests
 url='https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_2025.json'
@@ -57,4 +60,20 @@ dic=req.json()
 # preview data
 print(req, end='\n\n')
 print(dic)
+```
+### Javascript ( fetch js )
+```javascript
+// proto: client.js ~> local file. [run]> node client.js
+
+// Javascript client
+fetch('https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_frutas_brasil.json')
+  .then(response => response.json())
+  .then(data => {
+    //const textarea = document.getElementById('suaTextarea'); 
+    //textarea.value = JSON.stringify(data, null, 2);
+    console.log(JSON.stringify(data, null, 2)); 
+  })
+  .catch(error => {
+    console.error('Erro ao buscar os dados:', error);
+});
 ```
