@@ -4,6 +4,24 @@ json para testes, com atualização mensal, sem login, sem necessidade de cadast
 ## Brasil Botânica
 ### frutas brasil ( link raw rjd_frutas_brasil.json )
 🔗 [rjd_frutas_brasil](https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_frutas_brasil.json)
+```
+campos: nome, origem, estado_produtor, imagem, usada_em ( em qual receita se usa: suco, bolos, enfim ), nome_cientifico
+ordem : alfabetica
+data  : 30/10/2025
+```
+```jsonc
+// preview do primeiro campo
+"nome": "Abil",
+"origem": "Brasil",
+"estado_produtor": "MG, SP, PR, SC",
+"imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Lucuma_salicifolia_fruto.jpg/800px-Lucuma_salicifolia_fruto.jpg",
+"usada_em": "in natura, doces, geleias, licores",
+"nome_cinetifico":" Pouteria caimito (Ruiz & Pav.) Radlk. Sinônimos incluem Lucuma caimito e Achras caimito."
+```
+#### link raw txt
+```
+https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_2025.json
+```
 
 ## Brasil Geo
 ### brasil geo ( link raw rjd_brasil_2025.json )
