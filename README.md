@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/mai
 ### brasil_geo ( link raw rjd_brasil_2025.json [ * CTRL+s Salvar pelo navegador ] )
 🔗 [rjd_brasil_2025](https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_2025.json)
 ```
-campos: estado_nome, estado_capital, sigla_estado, fronteira_com, estado_ddd.
+campos: estado_nome, estado_capital, estado_sigla, fronteira_com, estado_ddd.
 ordem : alfabetica.
 data  : 30/05/25
 ```
