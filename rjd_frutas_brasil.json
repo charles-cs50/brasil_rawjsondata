@@ -4,9 +4,9 @@
       "nome": "Abiu",
       "origem": "Brasil",
       "estado_produtor": "MG, SP, PR, SC",
-      "imagem": " https://i.postimg.cc/BbnZrmCv/abiu.png",
+      "imagem": "https://i.postimg.cc/BbnZrmCv/abiu.png",
       "usada_em": "in natura, doces, geleias, licores",
-      "nome_cinetifico":" Pouteria caimito (Ruiz & Pav.) Radlk. Sinônimos incluem Lucuma caimito e Achras caimito."
+      "nome_cientifico":" Pouteria caimito (Ruiz & Pav.) Radlk. Sinônimos incluem Lucuma caimito e Achras caimito."
     },
     {
       "nome": "Açaí",
@@ -14,7 +14,7 @@
       "estado_produtor": "PA, AM, MA",
       "imagem": "https://i.postimg.cc/WzsRCtT6/a-a.png",
       "usada_em": "sucos, vitaminas, cremes, tigelas",
-      "nome_cinetifico":"Euterpe oleracea."
+      "nome_cientifico":"Euterpe oleracea."
     },
     {
       "nome": "Cupuaçu",
@@ -22,7 +22,7 @@
       "estado_produtor": "AM, PA, MA",
       "imagem": "https://i.postimg.cc/J7dVPrSJ/cupuacu.png",
       "usada_em": "sucos, doces, cremes, sorvetes",
-      "nome_cinetifico":"Theobroma grandiflorum."
+      "nome_cientifico":"Theobroma grandiflorum."
     },
     {
       "nome": "Graviola",
@@ -30,87 +30,87 @@
       "estado_produtor": "BA, CE, PE",
       "imagem": "https://i.postimg.cc/L8PJm0jC/graviola.png",
       "usada_em": "sucos, sorvetes, doces",
-      "nome_cinetifico":"Annona muricata L."
+      "nome_cientifico":"Annona muricata L."
     },
     {
       "nome": "Mangaba",
       "origem": "Brasil",
       "estado_produtor": "SE, AL, BA, MG",
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Mangaba_-_Sergipe.jpg/800px-Mangaba_-_Sergipe.jpg",
+      "imagem": "https://i.postimg.cc/L80F0HJG/mangaba.png",
       "usada_em": "in natura, sucos, doces, sorvetes",
-      "nome_cinetifico":"Hancornia speciosa Gomes."
+      "nome_cientifico":"Hancornia speciosa Gomes."
     },
     {
       "nome": "Jaca",
       "origem": "Índia (naturalizada no Brasil)",
       "estado_produtor": "BA, RJ, SP",
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Jackfruit_tree_and_fruits.jpg/800px-Jackfruit_tree_and_fruits.jpg",
+      "imagem": "https://i.postimg.cc/yYmFPdbY/jaca.png",
       "usada_em": "in natura (fruto maduro e verde), pratos salgados (jaca verde)",
-      "nome_cinetifico":" Artocarpus heterophyllus Lam."
+      "nome_cientifico":" Artocarpus heterophyllus Lam."
     },
     {
       "nome": "Pitanga",
       "origem": "Brasil",
       "estado_produtor": "SP, RJ, MG, RS",
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Pitanga_fruits.jpg/800px-Pitanga_fruits.jpg",
+      "imagem": "",
       "usada_em": "in natura, sucos, geleias, doces",
-      "nome_cinetifico":"Eugenia uniflora L."
+      "nome_cientifico":"Eugenia uniflora L."
     },
     {
       "nome": "Cajá",
       "origem": "América Tropical (possivelmente Brasil)",
       "estado_produtor": "PI, CE, PB",
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Caj%C3%A1s.jpg/800px-Caj%C3%A1s.jpg",
+      "imagem": "",
       "usada_em": "sucos, sorvetes, doces, geleias",
-      "nome_cinetifico":"Spondias mombin L."
+      "nome_cientifico":"Spondias mombin L."
     },
     {
       "nome": "Buriti",
       "origem": "Brasil",
       "estado_produtor": "MA, TO, MG",
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Buriti_fruits_Brazil.jpg/800px-Buriti_fruits_Brazil.jpg",
+      "imagem": "",
       "usada_em": "sucos, óleos, doces, in natura",
-      "nome_cinetifico":"Mauritia flexuosa L. f."
+      "nome_cientifico":"Mauritia flexuosa L. f."
     },
     {
       "nome": "Maracujá",
       "origem": "Brasil",
       "estado_produtor": "SP, BA, SC",
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Passiflora_edulis_fruits.jpg/800px-Passiflora_edulis_fruits.jpg",
+      "imagem": "",
       "usada_em": "sucos, mousses, bolos, doces",
-      "nome_cinetifico":"Passiflora edulis Sims."
+      "nome_cientifico":"Passiflora edulis Sims."
     },
     {
       "nome": "Jabuticaba",
       "origem": "Brasil",
       "estado_produtor": "MG, SP, RJ, PR",
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Jaboticabas_%28Myrciaria_cauliflora%29.jpg/800px-Jaboticabas_%28Myrciaria_cauliflora%29.jpg",
+      "imagem": "",
       "usada_em": "in natura, sucos, geleias, licores",
-      "nome_cinetifico":"Plinia cauliflora (Mart.) Kausel ou... Myrciaria cauliflora (Mart.) O. Berg"
+      "nome_cientifico":"Plinia cauliflora (Mart.) Kausel ou... Myrciaria cauliflora (Mart.) O. Berg"
     },
     {
       "nome": "Tamarindo",
       "origem": "África (naturalizada no Brasil)",
       "estado_produtor": "CE, BA, PI",
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Tamarindus_indica_fruits.JPG/800px-Tamarindus_indica_fruits.JPG",
+      "imagem": "",
       "usada_em": "sucos, doces, molhos",
-      "nome_cinetifico":"Tamarindus indica L."
+      "nome_cientifico":"Tamarindus indica L."
     },
     {
       "nome": "Umbu",
       "origem": "Brasil",
       "estado_produtor": "BA, SE, PE",
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Umbu_fruits.jpg/800px-Umbu_fruits.jpg",
+      "imagem": "",
       "usada_em": "in natura, sucos, geleias, doces",
-      "nome_cinetifico":"Spondias tuberosa Arruda."
+      "nome_cientifico":"Spondias tuberosa Arruda."
     },
     {
       "nome": "Acerola",
       "origem": "América Central e do Sul (possivelmente Brasil)",
       "estado_produtor": "CE, PE, BA",
-      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Acerolas.jpg/800px-Acerolas.jpg",
+      "imagem": "",
       "usada_em": "sucos, geleias, in natura",
-      "nome_cinetifico":"Malpighia emarginata DC."
+      "nome_cientifico":"Malpighia emarginata DC."
     },
     {
       "nome": "Goiaba",
@@ -118,7 +118,7 @@
       "estado_produtor": "SP, PE, MG",
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Goiabas.jpg/800px-Goiabas.jpg",
       "usada_em": "in natura, sucos, doces, geleias (goiabada)",
-      "nome_cinetifico":" Psidium guajava L."
+      "nome_cientifico":" Psidium guajava L."
     },
     {
       "nome": "Cacau",
@@ -126,7 +126,7 @@
       "estado_produtor": "BA, PA, ES",
       "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cacao_fruit_cut_open.jpg/800px-Cacao_fruit_cut_open.jpg",
       "usada_em": "chocolate, sucos, doces",
-      "nome_cinetifico":"Theobroma cacao L."
+      "nome_cientifico":"Theobroma cacao L."
     }
   ]
 }
