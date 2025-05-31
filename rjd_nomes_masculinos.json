@@ -1,0 +1,454 @@
+{
+  "nomes_masculinos_brasileiros": [
+    {
+      "nome": "Abel",
+      "origem": "Hebraico (Hével)",
+      "significado": "Vapor, sopro"
+    },
+    {
+      "nome": "Adriano",
+      "origem": "Latim",
+      "significado": "Natural de Ádria"
+    },
+    {
+      "nome": "Alan",
+      "origem": "Celta (possivelmente)",
+      "significado": "Harmonia, pedra, belo (significados incertos)"
+    },
+    {
+      "nome": "Alexandre",
+      "origem": "Grego (Alexandros)",
+      "significado": "Protetor dos homens"
+    },
+    {
+      "nome": "Anderson",
+      "origem": "Inglês (sobrenome)",
+      "significado": "Filho de André"
+    },
+    {
+      "nome": "André",
+      "origem": "Grego (Andreas)",
+      "significado": "Viril, másculo"
+    },
+    {
+      "nome": "Antônio",
+      "origem": "Latim",
+      "significado": "Inestimável, de valor incalculável"
+    },
+    {
+      "nome": "Arthur",
+      "origem": "Celta (possivelmente)",
+      "significado": "Homem urso, forte como um urso (significados incertos)"
+    },
+    {
+      "nome": "Augusto",
+      "origem": "Latim",
+      "significado": "Venerável, majestoso"
+    },
+    {
+      "nome": "Benjamim",
+      "origem": "Hebraico (Binyamin)",
+      "significado": "Filho da felicidade, filho da mão direita"
+    },
+    {
+      "nome": "Bruno",
+      "origem": "Germânico",
+      "significado": "Moreno, de pele escura"
+    },
+    {
+      "nome": "Caio",
+      "origem": "Latim (Caius)",
+      "significado": "Alegre, regozijador (significado incerto)"
+    },
+    {
+      "nome": "Carlos",
+      "origem": "Germânico (Karl)",
+      "significado": "Homem livre, homem do povo"
+    },
+    {
+      "nome": "César",
+      "origem": "Latim (Caesar)",
+      "significado": "Cabeludo (sobrenome romano que se tornou nome)"
+    },
+    {
+      "nome": "Christian",
+      "origem": "Grego/Latim",
+      "significado": "Seguidor de Cristo"
+    },
+    {
+      "nome": "Cláudio",
+      "origem": "Latim (Claudius)",
+      "significado": "Coxo (sentido figurado: aquele que manca, mas segue em frente)"
+    },
+    {
+      "nome": "Daniel",
+      "origem": "Hebraico (Daniyyel)",
+      "significado": "Deus é meu juiz"
+    },
+    {
+      "nome": "Davi",
+      "origem": "Hebraico (Dawid)",
+      "significado": "Amado, querido"
+    },
+    {
+      "nome": "Diego",
+      "origem": "Espanhol (possivelmente do grego Didákhoros)",
+      "significado": "Instruído, douto (significado incerto)"
+    },
+    {
+      "nome": "Eduardo",
+      "origem": "Germânico (Eadweard)",
+      "significado": "Guardião rico, protetor das riquezas"
+    },
+    {
+      "nome": "Elias",
+      "origem": "Hebraico ('Eliyyahu)",
+      "significado": "Meu Deus é Javé"
+    },
+    {
+      "nome": "Emanuel",
+      "origem": "Hebraico ('Immanuel)",
+      "significado": "Deus está conosco"
+    },
+    {
+      "nome": "Enzo",
+      "origem": "Italiano (abreviação de Lorenzo ou Vincenzo) / Germânico (Anzo)",
+      "significado": "Senhor do lar, gigante (significados variados)"
+    },
+    {
+      "nome": "Erick",
+      "origem": "Germânico (Eiríkr)",
+      "significado": "Soberano, eterno"
+    },
+    {
+      "nome": "Fábio",
+      "origem": "Latim (Fabius)",
+      "significado": "Cultivador de favas"
+    },
+    {
+      "nome": "Felipe",
+      "origem": "Grego (Philippos)",
+      "significado": "Amigo dos cavalos"
+    },
+    {
+      "nome": "Fernando",
+      "origem": "Germânico (Frithunanth)",
+      "significado": "Ousado para atingir a paz, viajante corajoso"
+    },
+    {
+      "nome": "Flávio",
+      "origem": "Latim (Flavius)",
+      "significado": "Dourado, loiro"
+    },
+    {
+      "nome": "Gabriel",
+      "origem": "Hebraico (Gavri'el)",
+      "significado": "Homem de Deus, fortaleza de Deus"
+    },
+    {
+      "nome": "Geraldo",
+      "origem": "Germânico (Gerwald)",
+      "significado": "Governante com a lança"
+    },
+    {
+      "nome": "Gilberto",
+      "origem": "Germânico (Giselbert)",
+      "significado": "Refém brilhante, penhor ilustre"
+    },
+    {
+      "nome": "Gustavo",
+      "origem": "Sueco antigo (Götstav)",
+      "significado": "Bastão dos godos, proteção real"
+    },
+    {
+      "nome": "Heitor",
+      "origem": "Grego (Hektōr)",
+      "significado": "Aquele que guarda, defensor"
+    },
+    {
+      "nome": "Henrique",
+      "origem": "Germânico (Haimric)",
+      "significado": "Senhor do lar, príncipe do lar"
+    },
+    {
+      "nome": "Hugo",
+      "origem": "Germânico (Hugh)",
+      "significado": "Inteligente, pensador"
+    },
+    {
+      "nome": "Ian",
+      "origem": "Escocês (variação de João)",
+      "significado": "Deus é gracioso"
+    },
+    {
+      "nome": "Igor",
+      "origem": "Nórdico antigo (Ingvarr)",
+      "significado": "Guerreiro de Ing (deus nórdico da fertilidade)"
+    },
+    {
+      "nome": "Ícaro",
+      "origem": "Grego (Íkaros)",
+      "significado": "Seguidor"
+    },
+    {
+      "nome": "Isac",
+      "origem": "Hebraico (Yitzchak)",
+      "significado": "Ele ri, filho da alegria"
+    },
+    {
+      "nome": "Israel",
+      "origem": "Hebraico (Yisra'el)",
+      "significado": "Aquele que luta com Deus, Deus prevalece"
+    },
+    {
+      "nome": "Ivan",
+      "origem": "Russo (variação de João)",
+      "significado": "Deus é gracioso"
+    },
+    {
+      "nome": "Jacó",
+      "origem": "Hebraico (Ya'aqov)",
+      "significado": "Aquele que segura o calcanhar, suplantador"
+    },
+    {
+      "nome": "Jair",
+      "origem": "Hebraico (Ya'ir)",
+      "significado": "Ele ilumina, ele despertará"
+    },
+    {
+      "nome": "João",
+      "origem": "Hebraico (Yohanan)",
+      "significado": "Deus é gracioso"
+    },
+    {
+      "nome": "Joaquim",
+      "origem": "Hebraico (Yehoqim)",
+      "significado": "Deus estabelecerá"
+    },
+    {
+      "nome": "Jorge",
+      "origem": "Grego (Geōrgios)",
+      "significado": "Agricultor, aquele que trabalha a terra"
+    },
+    {
+      "nome": "José",
+      "origem": "Hebraico (Yosef)",
+      "significado": "Ele acrescentará, que Deus multiplique"
+    },
+    {
+      "nome": "Josué",
+      "origem": "Hebraico (Yehoshua')",
+      "significado": "Javé é salvação"
+    },
+    {
+      "nome": "Júlio",
+      "origem": "Latim (Iulius)",
+      "significado": "Jovem, cheio de juventude"
+    },
+    {
+      "nome": "Junio",
+      "origem": "Latim (Iunius)",
+      "significado": "Consagrado a Juno"
+    },
+    {
+      "nome": "Kauã",
+      "origem": "Tupi-Guarani",
+      "significado": "Gavião"
+    },
+    {
+      "nome": "Kevin",
+      "origem": "Irlandês (Caoimhín)",
+      "significado": "Belo nascimento, nascimento gentil"
+    },
+    {
+      "nome": "Leandro",
+      "origem": "Grego (Leandros)",
+      "significado": "Homem leão"
+    },
+    {
+      "nome": "Leonardo",
+      "origem": "Germânico (Lewonhard)",
+      "significado": "Forte como um leão"
+    },
+    {
+      "nome": "Lucas",
+      "origem": "Grego (Loukas)",
+      "significado": "O que ilumina"
+    },
+    {
+      "nome": "Luciano",
+      "origem": "Latim (Lucianus)",
+      "significado": "Nascido na luz, luminoso"
+    },
+    {
+      "nome": "Luís",
+      "origem": "Germânico (Hludwig)",
+      "significado": "Guerreiro glorioso, combatente famoso"
+    },
+    {
+      "nome": "Marcelo",
+      "origem": "Latim (Marcellus)",
+      "significado": "Jovem guerreiro, pequeno guerreiro"
+    },
+    {
+      "nome": "Márcio",
+      "origem": "Latim (Marcius)",
+      "significado": "Dedicado a Marte (deus romano da guerra)"
+    },
+    {
+      "nome": "Marcos",
+      "origem": "Latim (Marcus)",
+      "significado": "Dedicado a Marte"
+    },
+    {
+      "nome": "Mateus",
+      "origem": "Hebraico (Mattityahu)",
+      "significado": "Dom de Deus, presente de Javé"
+    },
+    {
+      "nome": "Maurício",
+      "origem": "Latim (Mauritius)",
+      "significado": "Mouro, de pele escura"
+    },
+    {
+      "nome": "Miguel",
+      "origem": "Hebraico (Mikha'el)",
+      "significado": "Quem é como Deus?"
+    },
+    {
+      "nome": "Murilo",
+      "origem": "Latim (Maurus)",
+      "significado": "Pequeno mouro (possível significado)"
+    },
+    {
+      "nome": "Nathan",
+      "origem": "Hebraico (Natan)",
+      "significado": "Ele deu, dádiva"
+    },
+    {
+      "nome": "Nicolas",
+      "origem": "Grego (Nikolaos)",
+      "significado": "Vitória do povo"
+    },
+    {
+      "nome": "Octávio",
+      "origem": "Latim (Octavius)",
+      "significado": "O oitavo"
+    },
+    {
+      "nome": "Oliver",
+      "origem": "Germânico (possivelmente)",
+      "significado": "Exército dos elfos (significado incerto)"
+    },
+    {
+      "nome": "Otávio",
+      "origem": "Latim (Octavius)",
+      "significado": "O oitavo"
+    },
+    {
+      "nome": "Patrick",
+      "origem": "Latim (Patricius)",
+      "significado": "Nobre, de linhagem nobre"
+    },
+    {
+      "nome": "Paulo",
+      "origem": "Latim (Paulus)",
+      "significado": "Pequeno"
+    },
+    {
+      "nome": "Pedro",
+      "origem": "Grego (Petros)",
+      "significado": "Pedra, rochedo"
+    },
+    {
+      "nome": "Rafael",
+      "origem": "Hebraico (Refa'el)",
+      "significado": "Deus curou"
+    },
+    {
+      "nome": "Raul",
+      "origem": "Germânico (Radulf)",
+      "significado": "Conselheiro glorioso, lobo conselheiro"
+    },
+    {
+      "nome": "Renan",
+      "origem": "Bretão (Rheon)",
+      "significado": "Foca pequena (possível significado)"
+    },
+    {
+      "nome": "Ricardo",
+      "origem": "Germânico (Ricohard)",
+      "significado": "Governante poderoso, rei forte"
+    },
+    {
+      "nome": "Rodrigo",
+      "origem": "Germânico (Hrodric)",
+      "significado": "Governante famoso, rei glorioso"
+    },
+    {
+      "nome": "Romário",
+      "origem": "Latim (Romarius)",
+      "significado": "Peregrino de Roma"
+    },
+    {
+      "nome": "Samuel",
+      "origem": "Hebraico (Shemu'el)",
+      "significado": "Ouvido por Deus, nome de Deus"
+    },
+    {
+      "nome": "Sandro",
+      "origem": "Grego (abreviação de Alexandre)",
+      "significado": "Protetor dos homens"
+    },
+    {
+      "nome": "Saulo",
+      "origem": "Hebraico (Sha'ul)",
+      "significado": "Pedido, rogado"
+    },
+    {
+      "nome": "Sebastião",
+      "origem": "Grego (Sebastianos)",
+      "significado": "Venerável, majestoso"
+    },
+    {
+      "nome": "Sérgio",
+      "origem": "Latim (Sergius)",
+      "significado": "Servo (possível significado)"
+    },
+    {
+      "nome": "Silvio",
+      "origem": "Latim (Silvius)",
+      "significado": "Da floresta, selvagem"
+    },
+    {
+      "nome": "Simão",
+      "origem": "Hebraico (Shim'on)",
+      "significado": "O que ouve"
+    },
+    {
+      "nome": "Thiago",
+      "origem": "Espanhol (variação de Tiago, do hebraico Ya'aqov)",
+      "significado": "Aquele que segura o calcanhar, suplantador"
+    },
+    {
+      "nome": "Tomás",
+      "origem": "Aramaico (Ta'oma')",
+      "significado": "Gêmeo"
+    },
+    {
+      "nome": "Valdir",
+      "origem": "Germânico (Waldhari)",
+      "significado": "Exército poderoso, governante do exército"
+    },
+    {
+      "nome": "Vinicius",
+      "origem": "Latim (Vinicius)",
+      "significado": "Vinicultor"
+    },
+    {
+      "nome": "Vitor",
+      "origem": "Latim (Victor)",
+      "significado": "Vencedor, conquistador"
+    }
+  ]
+}
