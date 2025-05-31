@@ -9,6 +9,7 @@ campos  : nome, origem, estado_produtor, imagem, usada_em ( em qual receita se u
 ordem   : alfabetica
 data    : 30/10/2025
 imagens : nome_da_fruta.png 650x650 pixels - color 8bit ~~> fundo transparente.
+OBS: link sendo atualizado e padronizado, as imagens serão todas do mesmo tamanho, formato e paleta de 8bits. 
 ```
 ```jsonc
 // preview do primeiro campo
