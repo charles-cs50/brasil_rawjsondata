@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/mai
 ```
 
 ## Brasil Geo
-### brasil_geo ( link raw rjd_brasil_2025.json [* CTRL+s Salvar pelo navegador] )
+### brasil_geo ( link raw rjd_brasil_2025.json [ * CTRL+s Salvar pelo navegador ] )
 🔗 [rjd_brasil_2025](https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_2025.json)
 ```
 campos: estado_nome, estado_capital, sigla_estado, fronteira_com, estado_ddd.
@@ -88,7 +88,6 @@ $response = @file_get_contents($url);
 
 if ($response !== false) {
     $data = json_decode($response, true);
-
     if ($data !== null) {
         echo "<pre>"; 
         echo json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE); # encoding:utf-8 ~> JSON_UNESCAPED_UNICODE
@@ -99,6 +98,5 @@ if ($response !== false) {
 } else {
     echo "Erro ao consumir a API.";
 }
-
 ?>
 ```
