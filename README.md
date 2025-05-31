@@ -78,7 +78,7 @@ fetch('https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/he
 });
 ```
 ### PHP ( @file_get_contents() ) 🚀 testado.
-```html
+```php
 <?php
 # proto: client.php ~> local file. [run]> php client.php
 
