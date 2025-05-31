@@ -20,7 +20,7 @@ data  : 30/10/2025
 ```
 #### link raw txt
 ```
-https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_2025.json
+https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_frutas_brasil.json
 ```
 
 ## Brasil Geo
