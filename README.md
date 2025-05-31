@@ -41,7 +41,7 @@ data  : 30/05/25
 "fronteira_com": ["Amazonas", "Rondônia", "Peru", "Bolívia"],
 "estado_ddd": ["68"]
 ```
-#### link raw txt {endpont}
+#### link raw txt {endpoint}
 ```
 https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_2025.json
 ```
