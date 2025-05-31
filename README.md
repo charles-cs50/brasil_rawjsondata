@@ -69,8 +69,8 @@ print(dic)
 fetch('https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_frutas_brasil.json')
   .then(response => response.json())
   .then(data => {
-    //const textarea = document.getElementById('suaTextarea'); 
-    //textarea.value = JSON.stringify(data, null, 2);
+    // const textarea = document.getElementById('suaTextarea'); html
+    // textarea.value = JSON.stringify(data, null, 2); html
     console.log(JSON.stringify(data, null, 2)); 
   })
   .catch(error => {
