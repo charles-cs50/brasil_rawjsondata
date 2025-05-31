@@ -8,7 +8,7 @@ json para testes, com atualização mensal, sem login, sem necessidade de cadast
 campos  : nome, origem, estado_produtor, imagem, usada_em ( em qual receita se usa: suco, bolos, enfim ), nome_cientifico
 ordem   : alfabetica
 data    : 30/10/2025
-imagens : nome_da_fruta.png 650x650 pixels - color 8bit 
+imagens : nome_da_fruta.png 650x650 pixels - color 8bit ~~> fundo transparente.
 ```
 ```jsonc
 // preview do primeiro campo
