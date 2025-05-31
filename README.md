@@ -47,7 +47,7 @@ data  : 30/05/25
 https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_2025.json
 ```
 # Clients
-### Python client ( * lib requests )
+### Python client ( * lib requests ) 🚀 testado.
 ```python
 # proto: client.py ~> local file. [run]> python client.py or python3 client.py
 
@@ -61,7 +61,7 @@ dic=req.json()
 print(req, end='\n\n')
 print(dic)
 ```
-### Javascript ( fetch js )
+### Javascript ( fetch js ) 🚀 testado.
 ```javascript
 // proto: client.js ~> local file. [run]> node client.js
 
@@ -76,4 +76,29 @@ fetch('https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/he
   .catch(error => {
     console.error('Erro ao buscar os dados:', error);
 });
+```
+### PHP ( @file_get_contents() ) 🚀 testado.
+```html
+<?php
+# proto: client.php ~> local file. [run]> php client.php
+
+# php cliente
+$url = 'https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_nomes_femininos.json';
+$response = @file_get_contents($url);
+
+if ($response !== false) {
+    $data = json_decode($response, true); // Decodifica a string JSON para um array associativo
+
+    if ($data !== null) {
+        echo "<pre>"; // Tag <pre> para preservar a formatação
+        echo json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE); // Codifica o array de volta para JSON formatado
+        echo "</pre>";
+    } else {
+        echo "Erro ao decodificar a resposta JSON.";
+    }
+} else {
+    echo "Erro ao consumir a API.";
+}
+
+?>
 ```
