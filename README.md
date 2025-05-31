@@ -2,7 +2,7 @@
 json para testes, com atualização mensal, sem login, sem necessidade de cadastro, direto do arquivo, foco Brasil.
 
 ## Brasil Botânica
-### frutas brasil ( link raw rjd_frutas_brasil.json )
+### frutas brasil ( link raw rjd_frutas_brasil.json [* CTRL+s Salvar pelo navegador] )
 🔗 [rjd_frutas_brasil](https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_frutas_brasil.json)
 ```
 campos: nome, origem, estado_produtor, imagem, usada_em ( em qual receita se usa: suco, bolos, enfim ), nome_cientifico
@@ -18,13 +18,13 @@ data  : 30/10/2025
 "usada_em": "in natura, doces, geleias, licores",
 "nome_cinetifico":" Pouteria caimito (Ruiz & Pav.) Radlk. Sinônimos incluem Lucuma caimito e Achras caimito."
 ```
-#### link raw txt
+#### link raw txt {endpoint}
 ```
 https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_frutas_brasil.json
 ```
 
 ## Brasil Geo
-### brasil geo ( link raw rjd_brasil_2025.json )
+### brasil geo ( link raw rjd_brasil_2025.json [* CTRL+s Salvar pelo navegador] )
 🔗 [rjd_brasil_2025](https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_2025.json)
 ```
 campos: estado_nome, estado_capital, sigla_estado, fronteira_com, estado_ddd.
@@ -40,7 +40,7 @@ data  : 30/05/25
 "fronteira_com": ["Amazonas", "Rondônia", "Peru", "Bolívia"],
 "estado_ddd": ["68"]
 ```
-#### link raw txt
+#### link raw txt {endpont}
 ```
 https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_2025.json
 ```
