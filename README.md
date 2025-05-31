@@ -15,7 +15,7 @@ imagens : nome_da_fruta.png 650x650 pixels - color 8bit ~~> fundo transparente.
 "nome": "Abiu",
 "origem": "Brasil",
 "estado_produtor": "MG, SP, PR, SC",
-"imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Lucuma_salicifolia_fruto.jpg/800px-Lucuma_salicifolia_fruto.jpg",
+"imagem": "https://i.postimg.cc/BbnZrmCv/abiu.png",
 "usada_em": "in natura, doces, geleias, licores",
 "nome_cientifico":" Pouteria caimito (Ruiz & Pav.) Radlk. Sinônimos incluem Lucuma caimito e Achras caimito."
 ```
