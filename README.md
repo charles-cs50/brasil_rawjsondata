@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/mai
 
 ## Brasil Geo
 ### brasil geo ( link raw rjd_brasil_2025.json )
-🔗 [rjd_frutas_brasil](https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_2025.json)
+🔗 [rjd_brasil_2025](https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_2025.json)
 ```
 campos: estado_nome, estado_capital, sigla_estado, fronteira_com, estado_ddd.
 ordem : alfabetica.
