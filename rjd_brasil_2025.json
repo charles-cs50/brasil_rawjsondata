@@ -4,7 +4,7 @@
       "estado_nome": "Acre",
       "estado_capital": "Rio Branco",
       "estado_sigla": "AC",
-      "estado_populacao": 840939,
+      "estado_populacao": "880.631",
       "fronteira_com": ["Amazonas", "Rondônia", "Peru", "Bolívia"],
       "estado_ddd": ["68"]
     },
@@ -12,7 +12,7 @@
       "estado_nome": "Alagoas",
       "estado_capital": "Maceió",
       "estado_sigla": "AL",
-      "estado_populacao": 3397184,
+      "estado_populacao": "3.220.104",
       "fronteira_com": ["Pernambuco", "Sergipe", "Bahia"],
       "estado_ddd": ["82"]
     },
@@ -20,7 +20,7 @@
       "estado_nome": "Amapá",
       "estado_capital": "Macapá",
       "estado_sigla": "AP",
-      "estado_populacao": 877613,
+      "estado_populacao": "802.837",
       "fronteira_com": ["Pará", "Guiana Francesa", "Suriname"],
       "estado_ddd": ["96"]
     },
@@ -28,7 +28,7 @@
       "estado_nome": "Amazonas",
       "estado_capital": "Manaus",
       "estado_sigla": "AM",
-      "estado_populacao": 4334472,
+      "estado_populacao": "4.281.209",
       "fronteira_com": ["Acre", "Rondônia", "Pará", "Mato Grosso", "Roraima", "Peru", "Colômbia", "Venezuela"],
       "estado_ddd": ["92", "97"]
     },
