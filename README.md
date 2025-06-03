@@ -191,6 +191,41 @@ data  : 30/05/25
 ! em desenvolvimento... (*Imagens e json final)
 ```
 
+## 🚛 Brasil Carros Nacionais 🚛
+### brge_carros_br
+🔗 [rjd_barsil_geo_carroslancados]()
+
+## 📅 Campos
+### brge_carrosbr_cam
+```
+campos: nome, ano_lancamento, fabricante, categoria, imagem.
+
+ordem : alfabetica.
+data  : 30/05/25
+```
+
+## 📅 Visualização
+### brge_carrosbr_vis
+```jsonc
+// preview do primeiro campo
+"nome": "Gurgel Ipanema",
+"data_lancamento": "1970",
+"cores_disponiveis": ["Azul", "Branco", "Vermelho", "Amarelo"],
+
+"motor": "Volkswagen 1300 ou 1600 (Boxer, 4 cilindros)",
+"rodas_tamanho": "14 polegadas",
+"quant_lugares": 4,
+"chassi": "Longarina",
+"carroceiria_tipo": "Fibra de vidro",
+"imagem":" ...link... "
+```
+
+## 🔥 Endpoint
+### brge_carrosbr_end
+```
+! em desenvolvimento... (*Imagens e json final)
+```
+
 ### brcl
 # 💻 Clients/Clientes
 
