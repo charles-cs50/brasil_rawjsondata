@@ -101,6 +101,33 @@ data  : 30/05/25
 ```
 https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_2025.json
 ```
+## 👥 Brasil Nomes Femininos
+### brge_nomes_fem
+🔗 [rjd_nomes_femininos]()
+
+## 📅 Campos
+### brge_geo_cam
+```
+campos: nome, origem, significado.
+ordem : alfabetica.
+data  : 30/05/25
+```
+
+## 📅 Visualização
+### brge_geo_vis
+```jsonc
+// preview do primeiro campo
+"nome": "Abigail",
+"origem": "Hebraico",
+"significado": "Meu pai é alegria"
+```
+
+## 🔥 Endpoint
+### brge_geo_end
+```
+https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_nomes_femininos.json
+```
+
 ### brcl
 # 💻 Clients/Clientes
 
