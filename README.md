@@ -1,5 +1,6 @@
 #  [![jackal-11-24-v2-32-inverted.png](https://i.postimg.cc/wBPhM5Lv/jackal-11-24-v2-32-inverted.png)]()  CODEBABEL
 
+### inicio
 # brasil_rawjsondata: 0.0.1
 ## 📃 Descrição
 ```
@@ -67,6 +68,7 @@ OBS: link sendo atualizado e padronizado, as imagens serão todas do mesmo taman
 ```
 ! Em desenvolvimento... (*imagens)
 ```
+[☝ Retornar ao início](#inicio)
 
 ### brge
 # 🌐 Brasil Geo
@@ -106,6 +108,7 @@ data  : 30/05/25
 ```
 https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_geo_2025.json
 ```
+[☝ Retornar ao início](#inicio)
 
 ## 👥 Brasil Nomes Femininos
 ### brge_nomes_fem
@@ -133,6 +136,7 @@ data  : 30/05/25
 ```
 https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_geo_nomesfem.json
 ```
+[☝ Retornar ao início](#inicio)
 
 ## 👥 Brasil Nomes Masculinos
 ### brge_nomes_mas
@@ -160,6 +164,7 @@ data  : 30/05/25
 ```
 https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_geo_nomesmas.json
 ```
+[☝ Retornar ao início](#inicio)
 
 ## 🚗 Brasil Carros Lançados
 ### brge_carros_lan
@@ -190,6 +195,7 @@ data  : 30/05/25
 ```
 ! em desenvolvimento... (*Imagens e json final)
 ```
+[☝ Retornar ao início](#inicio)
 
 ## 🚛 Brasil Carros Nacionais 🚛
 ### brge_carros_br
@@ -224,6 +230,7 @@ data  : 30/05/25
 ```
 ! em desenvolvimento... (*Imagens e json final)
 ```
+[☝ Retornar ao início](#inicio)
 
 ### brcl
 # 💻 Clients/Clientes
@@ -266,6 +273,8 @@ print(rjd_index)
 #>>> index: 
  #    {'Acre': '001', 'Alagoas': '002', 'Amapá': '003', 'Amazonas': '004', 'Bahia': '005', ... }
 ```
+[☝ Retornar ao início](#inicio)
+
 ## ✅ Javascript ( fetch js )
 ### brcl_js
 ```javascript
@@ -285,6 +294,8 @@ fetch(url)
     console.error('Erro ao buscar os dados:', error);
 });
 ```
+[☝ Retornar ao início](#inicio)
+
 ## ✅ PHP ( @file_get_contents() )
 ### brcl_ph
 ```php
@@ -310,3 +321,10 @@ if ($response !== false) {
 }
 ?>
 ```
+[☝ Retornar ao início](#inicio)
+
+## 💜 Obrigado 🧡
+~~~
+Valeu por usar a o rawjsondata, tmj!
+~~~
+freevr 2025, **codebabel** raw json data.
