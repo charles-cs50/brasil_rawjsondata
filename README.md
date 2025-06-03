@@ -36,11 +36,15 @@ data  : 30/05/25
 ```jsonc
 // preview do primeiro campo
 "estado_nome": "Acre",
-"estado_capital": "Rio Branco",
-"estado_sigla": "AC",
-"estado_populacao": 840939,
-"fronteira_com": ["Amazonas", "Rondônia", "Peru", "Bolívia"],
-"estado_ddd": ["68"]
+      "estado_capital": "Rio Branco",
+      "estado_sigla": "AC",
+      "estado_populacao": "880.631",
+      "estado_area":"152.581 km²",
+      "estado_googlemaps":" ...link... ",
+      "estado_wazemaps":"...link... ",
+      "estado_fronteira_com": ["Amazonas", "Rondônia", "Peru", "Bolívia"],
+      "estado_ddd": ["68"],
+      "estado_naturalidade":"acriano"
 ```
 #### link raw txt {endpoint}
 ```
@@ -60,6 +64,14 @@ dic=req.json()
 # preview data
 print(req, end='\n\n')
 print(dic)
+
+# Obtendo index para verificar o dicionário.
+rjd_index=dic["Brasil"]["index"]
+print('index: \n', rjd_index, end='\n\n')
+
+# pegando dados "Acre"
+estado_acre=dic["Brasil"]["001"]
+print('dados Acre: \n', estado_acre)
 ```
 ### Javascript ( fetch js ) 🚀 testado.
 ```javascript
