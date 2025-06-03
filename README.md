@@ -33,6 +33,8 @@ direto do arquivo, foco Brasil.
 * [Clients/Clientes Python](#brcl_py)
 * [Clients/Clientes Javascript](#brcl_js)
 * [Clients/Clientes PHP](#brcl_ph)
+#### CHANGELOG
+* [Changelog 🚨](#changelog)
 
 ### brbo
 # Brasil Botânica
@@ -329,6 +331,21 @@ if ($response !== false) {
 ?>
 ```
 [☝ Retornar ao início](#inicio)
+
+### changelog
+## 🚨 Change Log
+|Version| Version Name | Upgrade Latency |
+|-------|--------------|-----------------|
+| 0.0.0 | rawjsondata  | inicio peojeto  |
+| 0.0.1 | rawjsondata  | versão inicial  |
+| 0.0.2 | rawjsondata  | recriar README  |
+| 0.0.3 | rawjsondata  | atual. de nome  |
+| 0.0.4 | rawjsondata  | editado README  |
+| 0.0.5 | rawjsondata  | imagens craição |
+| 0.0.6 | rawjsondata  | imagens craição |
+| 0.0.7 | rawjsondata  | imagens craição |
+| 0.0.8 | rawjsondata  | imagens craição |
+| 0.0.9 | rawjsondata  | adequação README|
 
 ## 💜 Obrigado 🧡
 ~~~
