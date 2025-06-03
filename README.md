@@ -101,12 +101,13 @@ data  : 30/05/25
 ```
 https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_geo_2025.json
 ```
+
 ## 👥 Brasil Nomes Femininos
 ### brge_nomes_fem
 🔗 [rjd_nomes_femininos](https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_geo_nomesfemininos.json)
 
 ## 📅 Campos
-### brge_geo_cam
+### brge_nomesfem_cam
 ```
 campos: nome, origem, significado.
 ordem : alfabetica.
@@ -114,7 +115,7 @@ data  : 30/05/25
 ```
 
 ## 📅 Visualização
-### brge_geo_vis
+### brge_nomefem_vis
 ```jsonc
 // preview do primeiro campo
 "nome": "Abigail",
@@ -123,9 +124,64 @@ data  : 30/05/25
 ```
 
 ## 🔥 Endpoint
-### brge_geo_end
+### brge_nomefem_end
 ```
 https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_geo_nomesfemininos.json
+```
+
+## 👥 Brasil Nomes Masculinos
+### brge_nomes_mas
+🔗 [rjd_brasil_geo_nomesmasculinos]()
+
+## 📅 Campos
+### brge_nomesmas_cam
+```
+campos: nome, origem, significado.
+ordem : alfabetica.
+data  : 30/05/25
+```
+
+## 📅 Visualização
+### brge_nomesmas_vis
+```jsonc
+// preview do primeiro campo
+"nome": "Abel",
+"origem": "Hebraico (Hével)",
+"significado": "Vapor, sopro"
+```
+
+## 🔥 Endpoint
+### brge_nomesmas_end
+```
+https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_geo_nomesmasculinos.json
+```
+
+## 👥 Brasil Carros Lançados
+### brge_carros_lan
+🔗 [rjd_barsil_geo_carroslancados]()
+
+## 📅 Campos
+### brge_carroslan_cam
+```
+campos: nome, ano_lancamento, fabricante, categoria.
+ordem : alfabetica.
+data  : 30/05/25
+```
+
+## 📅 Visualização
+### brge_carroslan_vis
+```jsonc
+// preview do primeiro campo
+"nome": "Abigail",
+"ano_lancamento": "Hebraico",
+"fabricante": "Meu pai é alegria",
+"categoria": ""
+```
+
+## 🔥 Endpoint
+### brge_carroslan_end
+```
+! em desenvolvimento...
 ```
 
 ### brcl
@@ -138,7 +194,8 @@ https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/mai
 
 # python client
 import requests
-url='https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_2025.json'
+url='https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_geo_2025.json'
+
 req=requests.get(url)
 dic=req.json()
 
@@ -174,7 +231,7 @@ print(rjd_index)
 // proto: client.js ~> local file. [run]> node client.js
 
 // Javascript client
-fetch('https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_frutas_brasil.json')
+fetch('https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_bot_frutas.json')
   .then(response => response.json())
   .then(data => {
     // const textarea = document.getElementById('suaTextarea'); html
@@ -192,7 +249,8 @@ fetch('https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/he
 # proto: client.php ~> local file. [run]> php client.php
 
 # php cliente
-$url = 'https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_nomes_femininos.json';
+$url = 'https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_bot_frutas.json';
+
 $response = @file_get_contents($url);
 
 if ($response !== false) {
