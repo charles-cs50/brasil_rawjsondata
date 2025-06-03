@@ -1,7 +1,7 @@
 #  [![jackal-11-24-v2-32-inverted.png](https://i.postimg.cc/wBPhM5Lv/jackal-11-24-v2-32-inverted.png)]()  CODEBABEL
 
 ### inicio
-# brasil_rawjsondata: 0.0.1
+# brasil_rawjsondata: 0.0.9
 ## 📃 Descrição
 ```
 rawjsondata/rjd: json para testes, com atualização mensal, sem login, sem necessidade de cadastro,
