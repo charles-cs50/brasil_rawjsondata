@@ -78,7 +78,8 @@ OBS: link sendo atualizado e padronizado, as imagens serão todas do mesmo taman
 ## 📅 Campos
 ### brge_geo_cam
 ```
-campos: estado_nome, estado_capital, estado_sigla, estado_populacao, estado_area, estado_googlemaps, estado_wazemaps, estado_fronteira_com, estado_ddd, estado_naturalidade.
+campos: estado_nome, estado_capital, estado_sigla, estado_populacao, estado_area, estado_googlemaps,
+estado_wazemaps, estado_fronteira_com, estado_ddd, estado_naturalidade.
 
 ordem : alfabetica  e index: 001 à 026.
 data  : 30/05/25
