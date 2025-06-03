@@ -3,7 +3,8 @@
 # brasil_rawjsondata: 0.0.1
 ## 📃 Descrição
 ```
-rawjsondata/rjd: json para testes, com atualização mensal, sem login, sem necessidade de cadastro, direto do arquivo, foco Brasil.
+rawjsondata/rjd: json para testes, com atualização mensal, sem login, sem necessidade de cadastro,
+direto do arquivo, foco Brasil.
 ```
 [![](https://i.postimg.cc/28XCfSZj/rjd-banner.png)]()
 
@@ -62,7 +63,7 @@ OBS: link sendo atualizado e padronizado, as imagens serão todas do mesmo taman
 ## 🔥 Endpoint
 ### brbo_frutas_end
 ```
-https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_bot_frutas.json
+! Em desenvolvimento... (*imagens)
 ```
 
 ### brge
@@ -131,7 +132,7 @@ https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/mai
 
 ## 👥 Brasil Nomes Masculinos
 ### brge_nomes_mas
-🔗 [rjd_brasil_geo_nomesmasculinos]()
+🔗 [rjd_brasil_geo_nomesmasculinos](https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_geo_nomesmasculinos.json)
 
 ## 📅 Campos
 ### brge_nomesmas_cam
@@ -156,7 +157,7 @@ data  : 30/05/25
 https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_geo_nomesmasculinos.json
 ```
 
-## 👥 Brasil Carros Lançados
+## 🚗 Brasil Carros Lançados
 ### brge_carros_lan
 🔗 [rjd_barsil_geo_carroslancados]()
 
@@ -172,16 +173,17 @@ data  : 30/05/25
 ### brge_carroslan_vis
 ```jsonc
 // preview do primeiro campo
-"nome": "Abigail",
-"ano_lancamento": "Hebraico",
-"fabricante": "Meu pai é alegria",
-"categoria": ""
+"nome": "Fiat Uno",
+"ano_lancamento": 1984,
+"fabricante": "Fiat",
+"categoria": "hatch",
+"imagem": " ...link... "
 ```
 
 ## 🔥 Endpoint
 ### brge_carroslan_end
 ```
-! em desenvolvimento...
+! em desenvolvimento... (*Imagens e json final)
 ```
 
 ### brcl
