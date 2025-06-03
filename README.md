@@ -21,11 +21,11 @@ direto do arquivo, foco Brasil.
 * [Brasil Geo/Visualização](#brge_geo_vis)
 * [Brasil Geo/Endpoint](#brge_geo_end)
 ##### GEO_nomes
-* [Brasil Nomes Femininos](#installation)
-* [Brasil Nomes Masculinos](#installation)
+* [Brasil Nomes Femininos](#brge_nomes_fem)
+* [Brasil Nomes Masculinos](#brge_nomes_mas)
 ##### GEO_carros
-* [Brasil Carros Lançados](#installation)
-* [Brasil Carros Nacionais](#installation)
+* [Brasil Carros Lançados](#brge_carros_lan)
+* [Brasil Carros Nacionais](#brge_carros_br)
 #### CLIENTES
 * [Clients/Clientes 🥇](#brcl)
 * [Clients/Clientes Python](#brcl_py)
@@ -71,7 +71,7 @@ OBS: link sendo atualizado e padronizado, as imagens serão todas do mesmo taman
 ### brge
 # 🌐 Brasil Geo
 
-## brasil_2025
+## brasil_geo_2025
 ### brge_geo
 🔗 [rjd_brasil_geo_2025](https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_geo_2025.json)
 
