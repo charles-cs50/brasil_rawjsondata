@@ -36,15 +36,15 @@ data  : 30/05/25
 ```jsonc
 // preview do primeiro campo
 "estado_nome": "Acre",
-      "estado_capital": "Rio Branco",
-      "estado_sigla": "AC",
-      "estado_populacao": "880.631",
-      "estado_area":"152.581 km²",
-      "estado_googlemaps":" ...link... ",
-      "estado_wazemaps":"...link... ",
-      "estado_fronteira_com": ["Amazonas", "Rondônia", "Peru", "Bolívia"],
-      "estado_ddd": ["68"],
-      "estado_naturalidade":"acriano"
+"estado_capital": "Rio Branco",
+"estado_sigla": "AC",
+"estado_populacao": "880.631",
+"estado_area":"152.581 km²",
+"estado_googlemaps":" ...link... ",
+"estado_wazemaps":"...link... ",
+"estado_fronteira_com": ["Amazonas", "Rondônia", "Peru", "Bolívia"],
+"estado_ddd": ["68"],
+"estado_naturalidade":"acriano"
 ```
 #### link raw txt {endpoint}
 ```
