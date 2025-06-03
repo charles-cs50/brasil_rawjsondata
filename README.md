@@ -34,7 +34,7 @@ direto do arquivo, foco Brasil.
 * [Clients/Clientes Javascript](#brcl_js)
 * [Clients/Clientes PHP](#brcl_ph)
 #### CHANGELOG
-* [Changelog 🚨](#changelog)
+* [Changelog 🚨](#change_log)
 
 ### brbo
 # Brasil Botânica
@@ -333,7 +333,7 @@ if ($response !== false) {
 [☝ Retornar ao início](#inicio)
 
 ## 🚨 Change Log
-### changelog
+### change_log
 |Version| Version Name | Upgrade Latency |
 |-------|--------------|-----------------|
 | 0.0.0 | rawjsondata  | inicio peojeto  |
