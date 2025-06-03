@@ -232,8 +232,10 @@ print(rjd_index)
 ```javascript
 // proto: client.js ~> local file. [run]> node client.js
 
-// Javascript client
-fetch('https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_bot_frutas.json')
+// Javascript client - Endpoint ~> const url
+const url='https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_geo_2025.json'
+
+fetch(url)
   .then(response => response.json())
   .then(data => {
     // const textarea = document.getElementById('suaTextarea'); html
@@ -250,8 +252,8 @@ fetch('https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/he
 <?php
 # proto: client.php ~> local file. [run]> php client.php
 
-# php cliente
-$url = 'https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_geo_nomesfemininos.json';
+# php cliente - Endpoint ~> $url
+$url = 'https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_geo_2025.json';
 
 $response = @file_get_contents($url);
 
