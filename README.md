@@ -249,7 +249,7 @@ fetch('https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/he
 # proto: client.php ~> local file. [run]> php client.php
 
 # php cliente
-$url = 'https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_bot_frutas.json';
+$url = 'https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_geo_nomesfemininos.json';
 
 $response = @file_get_contents($url);
 
