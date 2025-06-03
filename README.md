@@ -74,8 +74,10 @@ estado_acre=dic["Brasil"]["001"]
 print('dados Acre: \n', estado_acre)
 ```
 ```python
-""" retorno do rjd_index=dic["Brasil"]["index"] """
+rjd_index=dic["Brasil"]["index"]
+print(rjd_index)
 
+""" retorno terminal """
 #>>> index: 
  #    {'Acre': '001', 'Alagoas': '002', 'Amapá': '003', 'Amazonas': '004', 'Bahia': '005', ... }
 ```
