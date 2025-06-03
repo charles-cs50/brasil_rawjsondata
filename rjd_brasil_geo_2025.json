@@ -1,0 +1,402 @@
+{
+  "Brasil": {
+    "index":{
+      "Acre":"001",
+      "Alagoas":"002",
+      "Amapá":"003",
+      "Amazonas":"004",
+      "Bahia":"005",
+      "Ceará":"006",
+      "Brasília":"007",
+      "Espírito Santo":"008",
+      "Goiás":"009",
+      "Maranhão":"010",
+      "Mato Grosso":"011",
+      "Mato Grosso do Sul":"012",
+      "Minas Gerais":"013",
+      "Pará":"014",
+      "Paraíba":"015",
+      "Paraná":"016",
+      "Pernambuco":"017",
+      "Piauí":"018",
+      "Rio de Janeiro":"019",
+      "Rio Grande do Norte":"020",
+      "Rio Grande do Sul":"021",
+      "Rondônia":"022",
+      "Roraima":"023",
+      "Santa Catarina":"024",
+      "São Paulo":"025",
+      "Sergipe":"026",
+      "Tocantins":"027"
+    },
+
+    "detalhes":{
+      "brasil_estados":"26",
+      "brasil_capital":"Brasília",
+      "brasil_area":"8.510.000 km²",
+      "brasil_fronteiras_com":"Uruguai, Argentina, Paraguai, Bolívia, Peru, Colômbia, Venezuela, Guiana e Suriname",
+      "brasil_idioma":"Brasileiro",
+      "brasil_nacionalidade":"Brasileiro",
+      "brasil_president_atual":"Luiz Inácio Lula da Silva",
+      "brasil_populacao":"212.583.750",
+      "brasil_ibge_data":"2024",
+      "brasil_gmt":"GMT-3",
+      "brasil_utc":"UTC-03:00",
+      "brasil_gmt_mais":"Brasília (GMT-3)",
+      "brasil_utc_mais":"Brasília (UTC-03:00)",
+      "brasil_bandeira_png":"https://i.postimg.cc/qR6fkJcy/bandeira-nacional.png",
+      "brasil_bandeira_svg":"https://www.svgrepo.com/svg/405433/flag-for-flag-brazil"
+    },
+
+    "001":{
+      "estado_nome": "Acre",
+      "estado_capital": "Rio Branco",
+      "estado_sigla": "AC",
+      "estado_populacao": "880.631",
+      "estado_area":"152.581 km²",
+      "estado_googlemaps":"https://maps.app.goo.gl/ynhHDFq3gsYUP7PR9",
+      "estado_wazemaps":"https://www.waze.com/en/live-map/directions/rio-branco-ac-br?place=ChIJ85bMirZ7f5ERPJsdfx2PuIo",
+      "estado_fronteira_com": ["Amazonas", "Rondônia", "Peru", "Bolívia"],
+      "estado_ddd": ["68"],
+      "estado_naturalidade":"acriano"
+    },
+
+    "002":{
+      "estado_nome": "Alagoas",
+      "estado_capital": "Maceió",
+      "estado_sigla": "AL",
+      "estado_populacao": "3.220.104",
+      "estado_googlemaps":"https://maps.app.goo.gl/5CBcmFBiumxuD4aX9",
+      "estado_wazemaps":"https://www.waze.com/en/live-map/directions/maceio-al-br?place=ChIJSYho1vxGAQcRU3bgQ1tyLO4",
+      "estado_area":"27.768 km²",
+      "estado_fronteira_com": ["Pernambuco", "Sergipe", "Bahia"],
+      "estado_ddd": ["82"],
+      "estado_naturalidade":"alagoano ou alagoense"
+    },
+
+    "003":{
+      "estado_nome": "Amapá",
+      "estado_capital": "Macapá",
+      "estado_sigla": "AP",
+      "estado_populacao": "802.837",
+      "estado_googlemaps":"https://maps.app.goo.gl/BpbUSuBdptkjTzn28",
+      "estado_wazemaps":"https://www.waze.com/en/live-map/directions/macapa-ap-br?place=ChIJNxpLa-DlYY0Rlw_fMPN9NVY",
+      "estado_area":"142.814 km²",
+      "estado_fronteira_com": ["Pará", "Guiana Francesa", "Suriname"],
+      "estado_ddd": ["96"],
+      "estado_naturalidade":"amapaense"
+    },
+
+    "004":{
+      "estado_nome": "Amazonas",
+      "estado_capital": "Manaus",
+      "estado_sigla": "AM",
+      "estado_populacao": "4.281.209",
+      "estado_googlemaps":"https://maps.app.goo.gl/Sem2uipp4UtSL6hs7",
+      "estado_wazemaps":"https://www.waze.com/en/live-map/directions/manaus-am-br?place=ChIJt0d2s8gbbJIRzKll959cSCs",
+      "estado_area":"1.571.000 km²",
+      "estado_fronteira_com": ["Acre", "Rondônia", "Pará", "Mato Grosso", "Roraima", "Peru", "Colômbia", "Venezuela"],
+      "estado_ddd": ["92", "97"],
+      "estado_naturalidade":"manauara ou manauense"
+    },
+
+    "005":{
+      "estado_nome": "Bahia",
+      "estado_capital": "Salvador",
+      "estado_sigla": "BA",
+      "estado_populacao": "14.850.513",
+      "estado_googlemaps":"https://maps.app.goo.gl/V6uvTb3f1VcTwXA9A",
+      "estado_wazemaps":"https://www.waze.com/en/live-map/directions/salvador-ba-br?place=ChIJvS5CUCARFgcRndtzlTaEHPc",
+      "estado_area":"567.295 km²",
+      "estado_fronteira_com": ["Sergipe", "Alagoas", "Pernambuco", "Piauí", "Goiás", "Minas Gerais", "Espírito Santo"],
+      "estado_ddd": ["71", "73", "74", "75", "77"],
+      "estado_naturalidade":"baiano"
+    },
+
+    "006":{
+      "estado_nome": "Ceará",
+      "estado_capital": "Fortaleza",
+      "estado_sigla": "CE",
+      "estado_populacao": "9.233.656",
+      "estado_googlemaps":"https://maps.app.goo.gl/joYrwrN8pYdCcCsD6",
+      "estado_wazemaps":"https://www.waze.com/en/live-map/directions/br/ce/fortaleza?place=ChIJP3hMRj9MxwcRyjdrDArGYUY",
+      "estado_area":"148.886 km²",
+      "estado_fronteira_com": ["Piauí", "Pernambuco", "Paraíba", "Rio Grande do Norte"],
+      "estado_ddd": ["85", "88"],
+      "estado_naturalidade":"cearense"
+    },
+
+    "007":{
+      "estado_nome": "* Brasília",
+      "estado_capital": "Brasília",
+      "estado_sigla": "DF",
+      "estado_populacao": "2.982.818",
+      "estado_googlemaps":"https://maps.app.goo.gl/jj7QLa8aCehiPcEWA",
+      "estado_wazemaps":"https://www.waze.com/en/live-map/directions/brasilia-df-br?place=ChIJdeKa3xg9WpMRJEp1aeRwhHM",
+      "estado_area":"5.802 km²",
+      "estado_fronteira_com": ["Goiás", "Minas Gerais"],
+      "estado_ddd": ["61"],
+      "estado_naturalidade":"brasiliense"
+    },
+
+    "008":{
+      "estado_nome": "Espírito Santo",
+      "estado_capital": "Vitória",
+      "estado_sigla": "ES",
+      "estado_populacao": "4.102.129",
+      "estado_googlemaps":"https://maps.app.goo.gl/UjDg7ExynBUJz1TUA",
+      "estado_wazemaps":"https://www.waze.com/en/live-map/directions/vitoria-es-br?place=ChIJ6U43hV09uAARCdgOp35eWZc",
+      "estado_area":"46.095 km²",
+      "estado_fronteira_com": ["Bahia", "Minas Gerais", "Rio de Janeiro"],
+      "estado_ddd": ["27", "28"],
+      "estado_naturalidade":"capixaba ou espírito-santense"
+    },
+
+    "009":{
+      "estado_nome": "Goiás",
+      "estado_capital": "Goiânia",
+      "estado_sigla": "GO",
+      "estado_populacao": "7.350.483 ",
+      "estado_googlemaps":"https://maps.app.goo.gl/xFqENqTLsiqvMEio8",
+      "estado_wazemaps":"https://www.waze.com/en/live-map/directions/goiania-go-br?place=ChIJZwjYWL32XpMRjmfSIK0rae8",
+      "estado_area":"340.086 km²",
+      "estado_fronteira_com": ["Minas Gerais", "Bahia", "Piauí", "* Brasília", "Mato Grosso", "Mato Grosso do Sul", "Tocantins"],
+      "estado_ddd": ["62", "64"],
+      "estado_naturalidade":"goiano"
+    },
+
+    "010":{
+      "estado_nome": "Maranhão",
+      "estado_capital": "São Luís",
+      "estado_sigla": "MA",
+      "estado_populacao": "7.010.960",
+      "estado_googlemaps":"https://maps.app.goo.gl/PrHBphDFo8h1GzQSA",
+      "estado_wazemaps":"https://www.waze.com/en/live-map/directions/sao-luis-ma-br?place=ChIJIW1_b_CP9gcRR96jWeQCMZg",
+      "estado_area":"331.983 km²",
+      "estado_fronteira_com": ["Pará", "Tocantins", "Piauí"],
+      "estado_ddd": ["98", "99"],
+      "estado_naturalidade":"maranhense"
+    },
+
+    "011":{
+      "estado_nome": "Mato Grosso",
+      "estado_capital": "Cuiabá",
+      "estado_sigla": "MT",
+      "estado_populacao": "3.836.399 ",
+      "estado_googlemaps":"https://maps.app.goo.gl/D8NjKmHRt4PGhmmcA",
+      "estado_wazemaps":"https://www.waze.com/en/live-map/directions/br/mt/cuiaba?place=ChIJocTJ4IGVnZMRrhr2Ts_g_KU",
+      "estado_area":"903.357 km²",
+      "estado_fronteira_com": ["Amazonas", "Pará", "Tocantins", "Goiás", "Mato Grosso do Sul", "Rondônia", "Bolívia"],
+      "estado_ddd": ["65", "66"],
+      "estado_naturalidade":"mato-grossense"
+    },
+
+    "012":{
+      "estado_nome": "Mato Grosso do Sul",
+      "estado_capital": "Campo Grande",
+      "estado_sigla": "MS",
+      "estado_populacao": "2.901.895",
+      "estado_googlemaps":"https://maps.app.goo.gl/cbbUPxMbUqt6o4Rd9",
+      "estado_wazemaps":"https://www.waze.com/en/live-map/directions/campo-grande-ms-br?place=ChIJJ58ra3LmhpQRwdKEvJ5GqPU",
+      "estado_area":"357.125 km²",
+      "estado_fronteira_com": ["Mato Grosso", "Goiás", "Minas Gerais", "São Paulo", "Paraná", "Paraguai", "Bolívia"],
+      "estado_ddd": ["67"],
+      "estado_naturalidade":"sul-mato-grossense ou mato-grossense-do-sul"
+    },
+
+    "013":{
+      "estado_nome": "Minas Gerais",
+      "estado_capital": "Belo Horizonte",
+      "estado_sigla": "MG",
+      "estado_populacao": "21.322.691",
+      "estado_googlemaps":"https://maps.app.goo.gl/CqmtSNQoiYSgNzYr7",
+      "estado_wazemaps":"https://www.waze.com/en/live-map/directions/belo-horizonte-mg-br?place=ChIJMyzPysqQpgARlznSOl55NVs",
+      "estado_area":"586.528 km²",
+      "estado_fronteira_com": ["Bahia", "Espírito Santo", "Rio de Janeiro", "São Paulo", "Mato Grosso do Sul", "Goiás", "* Brasília"],
+      "estado_ddd": ["31", "32", "33", "34", "35", "37", "38"],
+      "estado_naturalidade":"mineiro"
+    },
+
+    "014":{
+      "estado_nome": "Pará",
+      "estado_capital": "Belém",
+      "estado_sigla": "PA",
+      "estado_populacao": "8.664.306",
+      "estado_googlemaps":"https://maps.app.goo.gl/nchVC6wQmqhiYoQt6",
+      "estado_wazemaps":"https://www.waze.com/en/live-map/directions/belem-pa-br?place=ChIJ4Wx1hK9hpJIRNUyGFQJUDVc",
+      "estado_area":"1.248.000 km²",
+      "estado_fronteira_com": ["Amapá", "Maranhão", "Tocantins", "Mato Grosso", "Amazonas", "Roraima", "Suriname", "Guiana"],
+      "estado_ddd": ["91", "93", "94"],
+      "estado_naturalidade":"paraense"
+    },
+
+    "015":{
+      "estado_nome": "Paraíba",
+      "estado_capital": "João Pessoa",
+      "estado_sigla": "PB",
+      "estado_populacao": "4.145.040",
+      "estado_googlemaps":"https://maps.app.goo.gl/Ntv6ad2tEj7dPgLx6",
+      "estado_wazemaps":"https://www.waze.com/en/live-map/directions/joao-pessoa-pb-br?place=ChIJ16OaATnorAcRNNsmbZxKQW4",
+      "estado_area":"56.585 km²",
+      "estado_fronteira_com": ["Rio Grande do Norte", "Ceará", "Pernambuco"],
+      "estado_ddd": ["83"],
+      "estado_naturalidade":"paraibano"
+    },
+
+    "016":{
+      "estado_nome": "Paraná",
+      "estado_capital": "Curitiba",
+      "estado_sigla": "PR",
+      "estado_populacao": "11.800.000",
+      "estado_googlemaps":"https://maps.app.goo.gl/kHnHhEiRqezQ127N8",
+      "estado_wazemaps":"https://www.waze.com/en/live-map/directions/curitiba-pr-br?place=ChIJ3bPNUVPj3JQRCejLuqVrL20",
+      "estado_area":"199.315 km²",
+      "estado_fronteira_com": ["São Paulo", "Mato Grosso do Sul", "Santa Catarina", "Paraguai", "Argentina"],
+      "estado_ddd": ["41", "42", "43", "44", "45", "46"],
+      "estado_naturalidade":"paranaense"
+    },
+
+    "017":{
+      "estado_nome": "Pernambuco",
+      "estado_capital": "Recife",
+      "estado_sigla": "PE",
+      "estado_populacao": "9.539.029",
+      "estado_googlemaps":"https://maps.app.goo.gl/bdW3EkTH1ZzNkGK16",
+      "estado_wazemaps":"https://www.waze.com/en/live-map/directions/recife-pe-br?place=ChIJi0DllG8ZqwcRpuO9gvcOgOU",
+      "estado_area":"98.312 km²",
+      "estado_fronteira_com": ["Ceará", "Paraíba", "Alagoas", "Bahia", "Piauí"],
+      "estado_ddd": ["81", "87"],
+      "estado_naturalidade":"pernambucano"
+    },
+
+    "018":{
+      "estado_nome": "Piauí",
+      "estado_capital": "Teresina",
+      "estado_sigla": "PI",
+      "estado_populacao": "3.375.646 ",
+      "estado_googlemaps":"https://maps.app.goo.gl/eAt9GGhAxbZe6Ait8",
+      "estado_wazemaps":"https://www.waze.com/en/live-map/directions/teresina-pi-br?place=ChIJx5mFmlEyjgcRxtmfwkc9SNQ",
+      "estado_area":"251.529 km²",
+      "estado_fronteira_com": ["Maranhão", "Ceará", "Pernambuco", "Bahia", "Tocantins"],
+      "estado_ddd": ["86", "89"],
+      "estado_naturalidade":"piauiense"
+    },
+
+    "019":{
+      "estado_nome": "Rio de Janeiro",
+      "estado_capital": "Rio de Janeiro",
+      "estado_sigla": "RJ",
+      "estado_populacao": "6.729.894",
+      "estado_googlemaps":"https://maps.app.goo.gl/XUX5xDUKQMJnwQot7",
+      "estado_wazemaps":"https://www.waze.com/en/live-map/directions/rio-de-janeiro-rj-br?place=ChIJW6AIkVXemwARTtIvZ2xC3FA",
+      "estado_area":"43.696 km²",
+      "estado_fronteira_com": ["Minas Gerais", "Espírito Santo", "São Paulo"],
+      "estado_ddd": ["21", "22", "24"],
+      "estado_naturalidade":"fluminense"
+    },
+
+    "020":{
+      "estado_nome": "Rio Grande do Norte",
+      "estado_capital": "Natal",
+      "estado_sigla": "RN",
+      "estado_populacao": "3.446.071 ",
+      "estado_googlemaps":"https://maps.app.goo.gl/inPj6X44FA1EQ5RNA",
+      "estado_wazemaps":"https://www.waze.com/en/live-map/directions/natal-rn-br?place=ChIJMQVGJqyqswcRae0P8ExAi10",
+      "estado_area":"52.797 km²",
+      "estado_fronteira_com": ["Paraíba", "Ceará"],
+      "estado_ddd": ["84"],
+      "estado_naturalidade":" potiguar ou norte-rio-grandense"
+    },
+
+    "021":{
+      "estado_nome": "Rio Grande do Sul",
+      "estado_capital": "Porto Alegre",
+      "estado_sigla": "RS",
+      "estado_populacao": "11.229.915",
+      "estado_googlemaps":"https://maps.app.goo.gl/F1Vhb6gk7TFSFVjr9",
+      "estado_wazemaps":"https://www.waze.com/en/live-map/directions/porto-alegre-rs-br?place=ChIJHctqVtKcGZURH-mHn6gRMWA",
+      "estado_area":"281.748 km²",
+      "estado_fronteira_com": ["Santa Catarina", "Argentina", "Uruguai"],
+      "estado_ddd": ["51", "53", "54", "55"],
+      "estado_naturalidade":"gaúcho ou sul-rio-grandense"
+    },
+
+    "022":{
+      "estado_nome": "Rondônia",
+      "estado_capital": "Porto Velho",
+      "estado_sigla": "RO",
+      "estado_populacao": "1.746.227",
+      "estado_googlemaps":"https://maps.app.goo.gl/ygUpqvZRVAXep65HA",
+      "estado_wazemaps":"https://www.waze.com/en/live-map/directions/porto-velho-ro-br?place=ChIJC1KYWWZbMpIRixnF0lry0HU",
+      "estado_area":"237.576 km²",
+      "estado_fronteira_com": ["Amazonas", "Mato Grosso", "Acre", "Bolívia"],
+      "estado_ddd": ["69"],
+      "estado_naturalidade":"rondoniano ou rondoniense"
+    },
+
+    "023":{
+      "estado_nome": "Roraima",
+      "estado_capital": "Boa Vista",
+      "estado_sigla": "RR",
+      "estado_populacao": "716.793",
+      "estado_googlemaps":"https://maps.app.goo.gl/osaJwsbjCrBdqUox6",
+      "estado_wazemaps":"https://www.waze.com/en/live-map/directions/boa-vista-rr-br?place=ChIJ26Sqy8oFk40RRV_XqcdlLrc",
+      "estado_area":"224.301 km²",
+      "estado_fronteira_com": ["Amazonas", "Pará", "Guiana", "Venezuela"],
+      "estado_ddd": ["95"],
+      "estado_naturalidade":"roraimense"
+    },
+
+    "024":{
+      "estado_nome": "Santa Catarina",
+      "estado_capital": "Florianópolis",
+      "estado_sigla": "SC",
+      "estado_populacao": "8.058.441",
+      "estado_googlemaps":"https://maps.app.goo.gl/3wuuUXnoTW4Ehw33A",
+      "estado_wazemaps":"https://www.waze.com/en/live-map/directions/florianopolis-sc-br?place=ChIJ1zLGsk45J5URRscEagtVvIE",
+      "estado_area":"95.346 km²",
+      "estado_fronteira_com": ["Paraná", "Rio Grande do Sul", "Argentina"],
+      "estado_ddd": ["47", "48", "49"],
+      "estado_naturalidade":"catarinense ou barriga-verde"
+    },
+
+    "025":{
+      "estado_nome": "São Paulo",
+      "estado_capital": "São Paulo",
+      "estado_sigla": "SP",
+      "estado_populacao": "45.973.194",
+      "estado_googlemaps":"https://maps.app.goo.gl/sgz1QTkzR7jaAjMP8",
+      "estado_wazemaps":"https://www.waze.com/en/live-map/directions/sao-paulo-sp-br?place=ChIJ0WGkg4FEzpQRrlsz_whLqZs",
+      "estado_area":"248.219 km²",
+      "estado_fronteira_com": ["Rio de Janeiro", "Minas Gerais", "Mato Grosso do Sul", "Paraná"],
+      "estado_ddd": ["11", "12", "13", "14", "15", "16", "17", "18", "19"],
+      "estado_naturalidade":"paulista"
+    },
+
+    "026":{
+      "estado_nome": "Sergipe",
+      "estado_capital": "Aracaju",
+      "estado_sigla": "SE",
+      "estado_populacao": "2.291.077",
+      "estado_googlemaps":"https://maps.app.goo.gl/jXSaQi3UwS6UgJHG7",
+      "estado_wazemaps":"https://www.waze.com/en/live-map/directions/aracaju-se-br?place=ChIJzSe-FUCwGgcRNjvskv00RIA",
+      "estado_area":"21.910 km²",
+      "estado_fronteira_com": ["Alagoas", "Bahia"],
+      "estado_ddd": ["79"],
+      "estado_naturalidade":"sergipano"
+    },
+
+    "027":{
+      "estado_nome": "Tocantins",
+      "estado_capital": "Palmas",
+      "estado_sigla": "TO",
+      "estado_populacao": "1.577.342 ",
+      "estado_googlemaps":"https://maps.app.goo.gl/WcXJC8yaBuefGY1Z9",
+      "estado_wazemaps":"https://www.waze.com/en/live-map/directions/palmas-to-br?place=ChIJVxIfkTk0O5MRj4Fc0HCAOwk",
+      "estado_area":"277.621 km²",
+      "estado_fronteira_com": ["Maranhão", "Piauí", "Bahia", "Goiás", "Mato Grosso", "Pará"],
+      "estado_ddd": ["63"],
+      "estado_naturalidade":"tocantinense"
+    }
+  }
+}
