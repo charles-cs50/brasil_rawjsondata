@@ -105,7 +105,7 @@ https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/mai
 
 ## 👥 Brasil Nomes Femininos
 ### brge_nomes_fem
-🔗 [rjd_nomes_femininos](https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_geo_nomesfem.json)
+🔗 [rjd_brasil_geo_nomesfem](https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_geo_nomesfem.json)
 
 ## 📅 Campos
 ### brge_nomesfem_cam
@@ -132,7 +132,7 @@ https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/mai
 
 ## 👥 Brasil Nomes Masculinos
 ### brge_nomes_mas
-🔗 [rjd_brasil_geo_nomesmasculinos](https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_geo_nomesmas.json)
+🔗 [rjd_brasil_geo_nomesmas](https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_geo_nomesmas.json)
 
 ## 📅 Campos
 ### brge_nomesmas_cam
