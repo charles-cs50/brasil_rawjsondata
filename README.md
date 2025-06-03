@@ -211,7 +211,6 @@ data  : 30/05/25
 "nome": "Gurgel Ipanema",
 "data_lancamento": "1970",
 "cores_disponiveis": ["Azul", "Branco", "Vermelho", "Amarelo"],
-
 "motor": "Volkswagen 1300 ou 1600 (Boxer, 4 cilindros)",
 "rodas_tamanho": "14 polegadas",
 "quant_lugares": 4,
