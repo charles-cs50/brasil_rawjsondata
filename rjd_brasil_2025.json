@@ -36,7 +36,15 @@
       "brasil_area":"8.510.000 km²",
       "brasil_fronteiras_com":"Uruguai, Argentina, Paraguai, Bolívia, Peru, Colômbia, Venezuela, Guiana e Suriname",
       "brasil_idioma":"Brasileiro",
-      "brasil_president_atual":"Luiz Inácio Lula da Silva"
+      "brasil_president_atual":"Luiz Inácio Lula da Silva",
+      "brasil_populacao":"212.583.750",
+      "brasil_ibge_data":"2024",
+      "brasil_gmt":"GMT-3",
+      "brasil_utc":"UTC-03:00",
+      "brasil_gmt_mais":"Brasília (GMT-3)",
+      "brasil_utc_mais":"Brasília (UTC-03:00)",
+      "brasil_bandeira_png":"https://i.postimg.cc/qR6fkJcy/bandeira-nacional.png",
+      "brasil_bandeira_svg":"https://www.svgrepo.com/svg/405433/flag-for-flag-brazil"
     },
 
     "001":{
