@@ -36,7 +36,7 @@ rawjsondata/rjd: json para testes, com atualização mensal, sem login, sem nece
 
 ## 🍓 Frutas Brasil
 ### brbo_frutas
-🔗 [rjd_frutas_brasil](https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_frutas_brasil.json)
+🔗 [rjd_brasil_bot_frutas](https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_bot_frutas.json)
 
 ## 📅 Campos
 ### brbo_frutas_cam
@@ -62,7 +62,7 @@ OBS: link sendo atualizado e padronizado, as imagens serão todas do mesmo taman
 ## 🔥 Endpoint
 ### brbo_frutas_end
 ```
-https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_frutas_brasil.json
+https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_bot_frutas.json
 ```
 
 ### brge
@@ -70,7 +70,7 @@ https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/mai
 
 ## brasil_2025
 ### brge_geo
-🔗 [rjd_brasil_2025](https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_geo_2025.json)
+🔗 [rjd_brasil_geo_2025](https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_geo_2025.json)
 
 ## 📅 Campos
 ### brge_geo_cam
