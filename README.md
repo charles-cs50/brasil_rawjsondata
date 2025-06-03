@@ -71,7 +71,9 @@ print('index: \n', rjd_index, end='\n\n')
 
 # demais detalhes 
 rjd_detalhes=dic["Brasil"]["detalhes"]
+brasil_estados_quantidade=rjd_detalhes["brasil_estados"]
 print(rjd_detalhes)
+print(brasil_estados_quantidade)
 
 # pegando dados "Acre"
 estado_acre=dic["Brasil"]["001"]
