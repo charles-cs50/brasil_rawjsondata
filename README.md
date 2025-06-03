@@ -105,7 +105,7 @@ https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/mai
 
 ## 👥 Brasil Nomes Femininos
 ### brge_nomes_fem
-🔗 [rjd_nomes_femininos](https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_geo_nomesfemininos.json)
+🔗 [rjd_nomes_femininos](https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_geo_nomesfem.json)
 
 ## 📅 Campos
 ### brge_nomesfem_cam
@@ -127,12 +127,12 @@ data  : 30/05/25
 ## 🔥 Endpoint
 ### brge_nomefem_end
 ```
-https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_geo_nomesfemininos.json
+https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_geo_nomesfem.json
 ```
 
 ## 👥 Brasil Nomes Masculinos
 ### brge_nomes_mas
-🔗 [rjd_brasil_geo_nomesmasculinos](https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_geo_nomesmasculinos.json)
+🔗 [rjd_brasil_geo_nomesmasculinos](https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_geo_nomesmas.json)
 
 ## 📅 Campos
 ### brge_nomesmas_cam
@@ -154,7 +154,7 @@ data  : 30/05/25
 ## 🔥 Endpoint
 ### brge_nomesmas_end
 ```
-https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_geo_nomesmasculinos.json
+https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_geo_nomesmas.json
 ```
 
 ## 🚗 Brasil Carros Lançados
