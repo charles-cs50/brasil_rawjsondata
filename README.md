@@ -70,7 +70,7 @@ https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/mai
 
 ## brasil_2025
 ### brge_geo
-🔗 [rjd_brasil_2025](https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_2025.json)
+🔗 [rjd_brasil_2025](https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_geo_2025.json)
 
 ## 📅 Campos
 ### brge_geo_cam
@@ -99,11 +99,11 @@ data  : 30/05/25
 ## 🔥 Endpoint
 ### brge_geo_end
 ```
-https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_2025.json
+https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_geo_2025.json
 ```
 ## 👥 Brasil Nomes Femininos
 ### brge_nomes_fem
-🔗 [rjd_nomes_femininos]()
+🔗 [rjd_nomes_femininos](https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_geo_nomesfemininos.json)
 
 ## 📅 Campos
 ### brge_geo_cam
@@ -125,7 +125,7 @@ data  : 30/05/25
 ## 🔥 Endpoint
 ### brge_geo_end
 ```
-https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_nomes_femininos.json
+https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_geo_nomesfemininos.json
 ```
 
 ### brcl
