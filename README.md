@@ -42,7 +42,8 @@ direto do arquivo, foco Brasil.
 ## 📅 Campos
 ### brbo_frutas_cam
 ```
-campos  : nome, origem, estado_produtor, imagem, usada_em ( em qual receita se usa: suco, bolos, enfim ), nome_cientifico.
+campos  : nome, origem, estado_produtor, imagem, usada_em ( em qual receita se usa: suco, bolos, enfim ),
+nome_cientifico.
 
 ordem   : alfabetica
 data    : 30/10/2025
