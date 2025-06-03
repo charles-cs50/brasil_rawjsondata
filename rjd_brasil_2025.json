@@ -27,8 +27,10 @@
       "Santa Catarina":"024",
       "São Paulo":"025",
       "Sergipe":"026",
-      "Tocantins":"027",
-      
+      "Tocantins":"027"
+    },
+
+    "detalhes":{
       "Brasil_estados":"26",
       "Brasil_capital":"Brasília",
       "Brasil_area":"8.510.000 km²",
