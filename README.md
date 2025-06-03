@@ -332,6 +332,6 @@ if ($response !== false) {
 
 ## 💜 Obrigado 🧡
 ~~~
-Valeu por usar a o rawjsondata, tmj!
+Valeu por usar o rawjsondata, tmj!
 ~~~
 freevr 2025, **codebabel** raw json data.
