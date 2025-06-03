@@ -42,7 +42,8 @@ direto do arquivo, foco Brasil.
 ## 📅 Campos
 ### brbo_frutas_cam
 ```
-campos  : nome, origem, estado_produtor, imagem, usada_em ( em qual receita se usa: suco, bolos, enfim ), nome_cientifico
+campos  : nome, origem, estado_produtor, imagem, usada_em ( em qual receita se usa: suco, bolos, enfim ), nome_cientifico.
+
 ordem   : alfabetica
 data    : 30/10/2025
 imagens : nome_da_fruta.png 650x650 pixels - color 8bit ~~> fundo transparente.
@@ -76,8 +77,9 @@ OBS: link sendo atualizado e padronizado, as imagens serão todas do mesmo taman
 ## 📅 Campos
 ### brge_geo_cam
 ```
-campos: estado_nome, estado_capital, estado_sigla, fronteira_com, estado_ddd.
-ordem : alfabetica.
+campos: estado_nome, estado_capital, estado_sigla, estado_populacao, estado_area, estado_googlemaps, estado_wazemaps, estado_fronteira_com, estado_ddd, estado_naturalidade.
+
+ordem : alfabetica  e index: 001 à 026.
 data  : 30/05/25
 ```
 
@@ -164,7 +166,8 @@ https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/mai
 ## 📅 Campos
 ### brge_carroslan_cam
 ```
-campos: nome, ano_lancamento, fabricante, categoria.
+campos: nome, ano_lancamento, fabricante, categoria, imagem.
+
 ordem : alfabetica.
 data  : 30/05/25
 ```
@@ -194,7 +197,7 @@ data  : 30/05/25
 ```python
 # proto: client.py ~> local file. [run]> python client.py or python3 client.py
 
-# python client
+# python client - Endpoint ~> url
 import requests
 url='https://raw.githubusercontent.com/charles-cs50/brasil_rawjsondata/refs/heads/main/rjd_brasil_geo_2025.json'
 
